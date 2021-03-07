@@ -22,10 +22,9 @@ features:
   - title: 'Common mistakes people make '
     icon: tf-ion-ios-bell-outline
     content: and how to avoid it
-  - title: Easy Pricing
+  - title: What to do when you fall off the habit
     icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: How to deal with failure
   right_side:
   - title: Smooth Touch
     icon: tf-ion-ios-alarm-outline
