@@ -1,4 +1,4 @@
-baseurl = "http://examplesite.com/"
+baseurl = "betterhabits.netlify.com"
 disableLanguages = ["fr"]
 googleAnalytics = ""
 summarylength = "20"
