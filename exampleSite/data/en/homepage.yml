@@ -26,10 +26,9 @@ features:
     icon: tf-ion-ios-cart-outline
     content: How to deal with failure
   right_side:
-  - title: Smooth Touch
+  - title: 'How to find lasting motivation '
     icon: tf-ion-ios-alarm-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: for sustaining habits
   - title: Elegant Design
     icon: tf-ion-ios-bell-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
