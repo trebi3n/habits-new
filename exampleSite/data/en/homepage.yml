@@ -37,7 +37,7 @@ features:
     content: " powerful framework for transformation"
 promo:
   enable: true
-  image: images/watch.png
+  image: "/images/tre-reading-circle.png"
   title: '10000 hours in personal development '
   content: 'Over the past 8 years, I have invested close to 10,000 hours studying
     the mindset, psychology, and habits of peak performers, and along the way, building
