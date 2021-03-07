@@ -19,10 +19,9 @@ features:
   - title: How long does it take to form a habit
     icon: tf-ion-ios-alarm-outline
     content: The science of building habits
-  - title: Elegant Design
+  - title: 'Common mistakes people make '
     icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: and how to avoid it
   - title: Easy Pricing
     icon: tf-ion-ios-cart-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
