@@ -32,10 +32,9 @@ features:
   - title: How to build a routine and stick to it
     icon: tf-ion-ios-bell-outline
     content: The system and structure to use
-  - title: Easy Pricing
+  - title: A powerful framework for transformation
     icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: " powerful framework for transformation"
 promo:
   enable: true
   image: images/watch.png
