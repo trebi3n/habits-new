@@ -13,13 +13,12 @@ banner:
     link: products
 features:
   enable: true
-  title: Our Core Features
-  image: images/watch-2.png
+  title: Climb the habit mountain
+  image: "/images/hugo-2.jpg"
   left_side:
-  - title: Smooth Touch
+  - title: How long does it take to form a habit
     icon: tf-ion-ios-alarm-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: The science of building habits
   - title: Elegant Design
     icon: tf-ion-ios-bell-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
