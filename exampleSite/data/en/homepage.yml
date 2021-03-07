@@ -38,11 +38,10 @@ features:
 promo:
   enable: true
   image: images/watch.png
-  title: Designed by professional , the benefit for creative gigs
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore,
-    deleniti minima nisi, velit atque quaerat impedit ea maxime sunt accusamus at
-    obcaecati dolor iure iusto omnis quis eum. <br><br> Lorem ipsum dolor sit amet,
-    consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
+  title: '10000 hours in personal development '
+  content: 'Over the past 8 years, I have invested close to 10,000 hours studying
+    the mindset, psychology, and habits of peak performers, and along the way, building
+    multi-year streaks in meditation, exercising, reading, and more. '
 about_product:
   enable: true
   title: Why Choose Apple Watch
